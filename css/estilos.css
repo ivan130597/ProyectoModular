@@ -141,3 +141,10 @@ header nav ul li a:hover{
     background-color: black;
 }
 
+.boton{
+    width: 200; height: 50;
+    background-color: yellow;
+    border-radius: .;
+    cursor: pointer;
+    
+}
